@@ -18,4 +18,4 @@ repo.index.commit('wop')
 origin = repo.remote(name='origin')
 origin.push()
 
-# repo.git
+repo.git
